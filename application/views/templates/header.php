@@ -13,7 +13,7 @@
 		<meta name = "description" content = "" />
 
 
-		<link type="image/x-icon" type="image/png" href="./assets/images/favicon64.png" rel="shortcut icon" />
+		<link type="image/x-icon" type="image/png" href="./assets/img/favicon64.png" rel="shortcut icon" />
 
     <link rel="stylesheet" href="assets/css/cerulean/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
